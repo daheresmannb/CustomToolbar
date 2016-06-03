@@ -1,4 +1,4 @@
-package com.tutorialsbuzz.collapsingtoolbardemo;
+package com.tutorialsbuzz.customcollapsingtoolbar;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
